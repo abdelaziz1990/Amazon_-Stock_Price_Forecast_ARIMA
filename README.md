@@ -5,5 +5,7 @@
  # Project Steps :
   1. Data loading
   2. EDA
-  3. Data Stasionarity (ADF, KPSS TESTS)
+  3. Data Stasionarity (ADF, KPSS TESTS and Differencing Method)
   4. Auto-Regressive Integrated Moving Average (ARIMA)
+# Data : 
+The Data was uploaded from Yahoo finance, from 2012 to 2022, the Data shape is [2537 rows x 6 columns]
