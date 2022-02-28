@@ -1,4 +1,4 @@
-   # Amazon_-Stock_Price_Forecast_ARIMA
+   # Amazon_Stock_Price_Forecast_ARIMA
 # Introduction : 
  The Stock Market, as we know, is volatile in nature and the prediction of the same is a cumbersome task. In this work the Amazon stock price are predict With ARIMA model.
  the results from this work lead to a conclusion that ARIMA can be used to predict stock prices for a short period.
