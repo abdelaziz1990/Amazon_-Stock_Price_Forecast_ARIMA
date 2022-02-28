@@ -5,9 +5,5 @@
  # Project Steps :
   1. Data loading
   2. EDA
-  3. Data Stasionarity : 
-  3.1. ADF, KPSS TESTS
-  3.2. Detrend Time Series Data With Differencing Method
+  3. Data Stasionarity (ADF, KPSS TESTS)
   4. Auto-Regressive Integrated Moving Average (ARIMA)
-  4.1. AUTO ARIMA
-  4.2. FORCASTING
